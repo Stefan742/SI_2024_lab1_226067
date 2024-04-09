@@ -1,0 +1,35 @@
+commit f19e351c021b4f1d5ce7b31a055681fdfb71f754
+Author: Stefan Stojanovski <stefanstojanovski21@gmail.com>
+Date:   Wed Apr 10 00:44:01 2024 +0200
+
+     Call method makeBigStringFrom in main class
+
+commit 3e5557e300d641c791d956948620d43fc97e0e92
+Author: Stefan Stojanovski <stefanstojanovski21@gmail.com>
+Date:   Wed Apr 10 00:37:03 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 56f45db81c18216e13d367164f24077e0449c0ab
+Author: Stefan Stojanovski <stefanstojanovski21@gmail.com>
+Date:   Wed Apr 10 00:41:20 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit c0dd9e39bcc54362de29840a8220746e274c96f2
+Author: Stefan Stojanovski <stefanstojanovski21@gmail.com>
+Date:   Wed Apr 10 00:33:52 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 605814b0c46c6dd9c13f0ca4f2c2f3abc0b88bb6
+Author: Stefan Stojanovski <stefanstojanovski21@gmail.com>
+Date:   Wed Apr 10 00:14:31 2024 +0200
+
+    Add starter code
+
+commit 9c951140475ae2762035f4c2f00762dd52a25094
+Author: Stefan Stojanovski <stefanstojanovski21@gmail.com>
+Date:   Wed Apr 10 00:10:17 2024 +0200
+
+    Initial commit

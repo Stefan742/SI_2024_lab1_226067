@@ -1,0 +1,8 @@
+Vo ovaa laboratorista jas gi koristev komandite:
+git checkout 
+git rebase
+git merge
+git add
+git log
+git status
+
